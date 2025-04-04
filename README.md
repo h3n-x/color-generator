@@ -31,7 +31,7 @@ Una aplicación web moderna para crear, personalizar y evaluar paletas de colore
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/h3n/color-generator.git
+git clone https://github.com/h3n-x/color-generator.git
 cd color-generator
 
 # Instalar dependencias
