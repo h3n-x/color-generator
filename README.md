@@ -2,7 +2,7 @@
 
 Una aplicación web moderna para crear, personalizar y evaluar paletas de colores con estilo pastel que cumplen con los estándares de accesibilidad WCAG.
 
-![H3n Color Generator](https://via.placeholder.com/800x400/0ea5e9/FFFFFF?text=H3n+Color+Generator)
+![H3n Color Generator](https://github.com/user-attachments/assets/668cd12c-c4f2-41a7-903d-740b7809c7f2)
 
 ## Características
 
